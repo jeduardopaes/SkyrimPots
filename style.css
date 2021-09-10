@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(43, 42, 42);
+}
+
+#table{
+  margin-top: 2rem;
+}
+
+.search-bar{
+  margin: 1rem 2rem;
+  padding: 1rem 2rem;
+  
+}
+
+.warning{
+  margin: 0;
+  padding: 0;
+  color: yellow;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.arrow-down:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #f00;
+}
+
+.arrow-up:after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #f00;
+}
