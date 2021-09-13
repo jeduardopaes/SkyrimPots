@@ -117,6 +117,106 @@ let data = [{
     "Juniper Berries",
     "Salt Pile"
   ]
+},
+{
+  Name:"Potion of Fortify Smithing",
+  Price:"none",
+  Ingredients:[
+    "Blisterwort",
+    "Glowing Mushroom"
+  ]
+},
+{
+  Name:"Potion of Fortify Smithing",
+  Price:"none",
+  Ingredients:[
+    "Blisterwort",
+    "Spriggan Sap"
+  ]
+},
+{
+  Name:"Potion of Fortify Smithing",
+  Price:"none",
+  Ingredients:[
+    "Glowing Mushroom",
+    "Spriggan Sap"
+  ]
+}
+,
+{
+  Name:"Posion of Lingering Damage Health",
+  Price:"225",
+  Ingredients:[
+    "Imp Stool",
+    "Red Mountain Flower",
+    "Scathecraw"
+  ]
+},
+{
+  Name:"Posion of Paralysis",
+  Price:"841",
+  Ingredients:[
+    "Imp Stool",
+    "Swamp Fungal Pod",
+    "Scathecraw"
+  ]
+},
+{
+  Name:"Posion of Paralysis",
+  Price:"197",
+  Ingredients:[
+    "Canis Root",
+    "Swamp Fungal Pod"
+  ]
+},
+{
+  Name:"Posion of Paralysis",
+  Price:"197",
+  Ingredients:[
+    "Imp Stool",
+    "Swamp Fungal Pod"
+  ]
+},
+{
+  Name:"Posion of Fortify One-Handed",
+  Price:"259",
+  Ingredients:[
+    "Hanging Moss",
+    "Rock Warbler Egg"
+  ]
+},
+{
+  Name:"Posion of Fortify Marksman",
+  Price:"259",
+  Ingredients:[
+    "Elves Ear",
+    "Juniper Berries"
+  ]
+},
+{
+  Name:"Posion of Frenzy",
+  Price:"188",
+  Ingredients:[
+    "Blisterwort",
+    "Fly Amanita"
+  ]
+},
+{
+  Name:"Posion of Slow",
+  Price:"553",
+  Ingredients:[
+    "Deathbell",
+    "Red Mountain Flower",
+    "Salt Pile"
+  ]
+},
+{
+  Name:"Posion of Fortify Sneak",
+  Price:"455",
+  Ingredients:[
+    "Frost Mirriam",
+    "Purple Mountain Flower"
+  ]
 }
 
 
