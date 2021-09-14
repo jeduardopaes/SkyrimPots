@@ -217,6 +217,14 @@ let data = [{
     "Frost Mirriam",
     "Purple Mountain Flower"
   ]
+},{
+  Name:"Potion of Waterbreathing",
+  Price:"2026",
+  Ingredients:[
+    "Garlic",
+    "Nordic Barnacle",
+    "Salmon Roe"
+  ]
 }
 
 
